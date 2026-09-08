@@ -1,4 +1,4 @@
-<p align="center"><img src="images/app-icon.png" width="112" alt="钓行图标"></p>
+<p align="center"><a href="images/app-icon-original.png"><img src="images/app-icon.png" width="176" alt="钓行图标，点击查看 1254×1254 高清原图"></a></p>
 
 <h1 align="center">钓行</h1>
 
@@ -14,6 +14,10 @@
 | 记录从这里开始 | 一次钓行，一份档案 | 从历史中回顾经验 |
 | :---: | :---: | :---: |
 | <img src="images/home.png" width="260" alt="钓行首页"> | <img src="images/trip.png" width="260" alt="钓行详情"> | <img src="images/analysis.png" width="260" alt="钓行分析"> |
+
+| 认识常见淡水鱼 | 管理每一套装备 |
+| :---: | :---: |
+| <img src="images/fish-gallery.png" width="300" alt="31种常见淡水鱼图鉴"> | <img src="images/equipment.png" width="300" alt="鱼竿、渔轮、配套线杯与装备组合管理"> |
 
 截图由真实应用界面使用虚构演示数据渲染；不包含用户真实位置、照片或档案。字体与设备显示可能略有差异。
 
