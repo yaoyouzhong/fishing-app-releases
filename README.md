@@ -2,7 +2,7 @@
 
 <h1 align="center">钓行</h1>
 
-<p align="center"><strong>每一次出钓，都值得记下。</strong></p>
+<p align="center"><strong>让每一次出钓，都留下美好的回忆。</strong></p>
 <p align="center">Android · 本地优先 · 离线记录</p>
 
 <p align="center"><a href="https://github.com/yaoyouzhong/fishing-app-releases/releases/latest">下载安装</a> · <a href="GUIDE.md">使用指南</a> · <a href="https://github.com/yaoyouzhong/fishing-app-releases/issues">问题反馈</a></p>
