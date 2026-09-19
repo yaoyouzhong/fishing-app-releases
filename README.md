@@ -13,9 +13,9 @@
 
 [![50 秒了解钓行：记录鱼获、整理装备、回顾经验，点击下载视频](images/fishing-app-intro-cover.jpg)](https://raw.githubusercontent.com/yaoyouzhong/fishing-app-releases/main/videos/fishing-app-intro.mp4)
 
-[↓ 下载项目介绍视频（50 秒 · 5.3 MB）](https://raw.githubusercontent.com/yaoyouzhong/fishing-app-releases/main/videos/fishing-app-intro.mp4) · [下载 Android 版](https://github.com/yaoyouzhong/fishing-app-releases/releases/latest)
+[↓ 下载项目介绍视频（50 秒 · 5.6 MB）](https://raw.githubusercontent.com/yaoyouzhong/fishing-app-releases/main/videos/fishing-app-intro.mp4) · [下载 Android 版](https://github.com/yaoyouzhong/fishing-app-releases/releases/latest)
 
-了解如何完整记录一次钓行、整理装备组合、查询线杯适配，并结合时长与样本回顾自己的作钓表现。视频使用真实应用界面与虚构演示数据，配有中文说明，可静音观看。
+了解如何完整记录一次钓行、整理装备组合、查询线杯适配、浏览 31 种常见淡水鱼图鉴，并结合时长与样本回顾自己的作钓表现。视频使用真实应用界面与虚构演示数据，配有中文说明，可静音观看。
 
 ## 看看实际界面
 
@@ -30,6 +30,8 @@
 截图由真实应用界面使用虚构演示数据渲染；不包含用户真实位置、照片或档案。字体与设备显示可能略有差异。
 
 ## 为每一次出钓留下什么
+
+- **31 种常见淡水鱼，随手翻阅。** 按分类浏览鱼种图卡，点开大图查看细节。
 
 - **回家再记，也很完整。** 默认补记已结束的钓行，按鱼种汇总数量和重量，不要求全程计时或逐尾拍照；现场记录为可选入口。
 - **鱼获之外，也记过程。** 照片、视频、同行者、装备快照、复盘和遗憾放在同一份档案中。

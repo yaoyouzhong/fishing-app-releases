@@ -6,3 +6,5 @@
 - 背景音乐为本片代码原创合成；动作音效使用归藏 product video skill 内置原创合成素材，未使用第三方录音。
 - 中文标题采用 Noto Sans SC，英文辅助标题采用 DM Serif Display，均按 SIL Open Font License 使用；字体仅作为视频画面呈现，不在此目录分发字体文件。
 - 本目录仅分发成片，不包含应用私有源码、凭据或本地视频制作工程。
+
+- 淡水鱼图鉴镜头使用本仓库 `images/fish-gallery.png`，展示现有 31 种常见淡水鱼分类图卡。
