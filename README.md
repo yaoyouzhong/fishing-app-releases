@@ -9,6 +9,14 @@
 
 钓行是一款个人钓行档案与经验复盘工具。回家后补记一次出钓，将鱼获、照片、装备和复盘保存在一起；空军同样值得留下一份记录。基础记录无需注册账号，也无需填写 API Key。
 
+## 50 秒了解钓行
+
+[![50 秒了解钓行：记录鱼获、整理装备、回顾经验，点击观看视频](images/fishing-app-intro-cover.jpg)](videos/fishing-app-intro.mp4)
+
+[▶ 观看项目介绍（50 秒）](videos/fishing-app-intro.mp4) · [下载 Android 版](https://github.com/yaoyouzhong/fishing-app-releases/releases/latest)
+
+了解如何完整记录一次钓行、整理装备组合、查询线杯适配，并结合时长与样本回顾自己的作钓表现。视频使用真实应用界面与虚构演示数据，配有中文说明，可静音观看。
+
 ## 看看实际界面
 
 | 记录从这里开始 | 一次钓行，一份档案 | 从历史中回顾经验 |
