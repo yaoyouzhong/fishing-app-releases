@@ -11,9 +11,9 @@
 
 ## 50 秒了解钓行
 
-https://github.com/user-attachments/assets/1dae8dbf-c18d-4841-a373-6c693c853add
+https://github.com/user-attachments/assets/d65bc6a9-698e-4e7c-b477-0bb31f66d4b5
 
-[↓ 下载项目介绍视频（50 秒 · 5.6 MB）](https://raw.githubusercontent.com/yaoyouzhong/fishing-app-releases/main/videos/fishing-app-intro.mp4) · [下载 Android 版](https://github.com/yaoyouzhong/fishing-app-releases/releases/latest)
+[↓ 下载项目介绍视频（50 秒 · 6.2 MB）](https://raw.githubusercontent.com/yaoyouzhong/fishing-app-releases/main/videos/fishing-app-intro.mp4) · [下载 Android 版](https://github.com/yaoyouzhong/fishing-app-releases/releases/latest)
 
 了解如何完整记录一次钓行、整理装备组合、查询线杯适配、浏览 31 种常见淡水鱼图鉴，并结合时长与样本回顾自己的作钓表现。视频使用真实应用界面与虚构演示数据，配有中文说明，可静音观看。
 
