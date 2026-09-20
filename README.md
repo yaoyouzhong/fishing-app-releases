@@ -11,7 +11,7 @@
 
 ## 50 秒了解钓行
 
-[![50 秒了解钓行：记录鱼获、整理装备、回顾经验，点击下载视频](images/fishing-app-intro-cover.jpg)](https://raw.githubusercontent.com/yaoyouzhong/fishing-app-releases/main/videos/fishing-app-intro.mp4)
+https://github.com/user-attachments/assets/1dae8dbf-c18d-4841-a373-6c693c853add
 
 [↓ 下载项目介绍视频（50 秒 · 5.6 MB）](https://raw.githubusercontent.com/yaoyouzhong/fishing-app-releases/main/videos/fishing-app-intro.mp4) · [下载 Android 版](https://github.com/yaoyouzhong/fishing-app-releases/releases/latest)
 
